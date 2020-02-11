@@ -1,0 +1,8 @@
+C:\Proyectos\UNOS\Unos\UNOS\Contexto\bin\Debug\netcoreapp3.1\Contexto.deps.json
+C:\Proyectos\UNOS\Unos\UNOS\Contexto\bin\Debug\netcoreapp3.1\Contexto.dll
+C:\Proyectos\UNOS\Unos\UNOS\Contexto\bin\Debug\netcoreapp3.1\Contexto.pdb
+C:\Proyectos\UNOS\Unos\UNOS\Contexto\obj\Debug\netcoreapp3.1\Contexto.csprojAssemblyReference.cache
+C:\Proyectos\UNOS\Unos\UNOS\Contexto\obj\Debug\netcoreapp3.1\Contexto.AssemblyInfoInputs.cache
+C:\Proyectos\UNOS\Unos\UNOS\Contexto\obj\Debug\netcoreapp3.1\Contexto.AssemblyInfo.cs
+C:\Proyectos\UNOS\Unos\UNOS\Contexto\obj\Debug\netcoreapp3.1\Contexto.dll
+C:\Proyectos\UNOS\Unos\UNOS\Contexto\obj\Debug\netcoreapp3.1\Contexto.pdb

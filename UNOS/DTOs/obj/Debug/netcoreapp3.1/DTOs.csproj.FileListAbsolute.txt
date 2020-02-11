@@ -1,0 +1,8 @@
+C:\Proyectos\UNOS\Unos\UNOS\DTOs\bin\Debug\netcoreapp3.1\DTOs.deps.json
+C:\Proyectos\UNOS\Unos\UNOS\DTOs\bin\Debug\netcoreapp3.1\DTOs.dll
+C:\Proyectos\UNOS\Unos\UNOS\DTOs\bin\Debug\netcoreapp3.1\DTOs.pdb
+C:\Proyectos\UNOS\Unos\UNOS\DTOs\obj\Debug\netcoreapp3.1\DTOs.csprojAssemblyReference.cache
+C:\Proyectos\UNOS\Unos\UNOS\DTOs\obj\Debug\netcoreapp3.1\DTOs.AssemblyInfoInputs.cache
+C:\Proyectos\UNOS\Unos\UNOS\DTOs\obj\Debug\netcoreapp3.1\DTOs.AssemblyInfo.cs
+C:\Proyectos\UNOS\Unos\UNOS\DTOs\obj\Debug\netcoreapp3.1\DTOs.dll
+C:\Proyectos\UNOS\Unos\UNOS\DTOs\obj\Debug\netcoreapp3.1\DTOs.pdb

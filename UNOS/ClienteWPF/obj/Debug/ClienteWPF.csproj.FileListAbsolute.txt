@@ -1,0 +1,14 @@
+C:\Proyectos\UNOS\Unos\UNOS\ClienteWPF\obj\Debug\ClienteWPF.csprojAssemblyReference.cache
+C:\Proyectos\UNOS\Unos\UNOS\ClienteWPF\obj\Debug\MainWindow.g.cs
+C:\Proyectos\UNOS\Unos\UNOS\ClienteWPF\obj\Debug\App.g.cs
+C:\Proyectos\UNOS\Unos\UNOS\ClienteWPF\obj\Debug\ClienteWPF_MarkupCompile.cache
+C:\Proyectos\UNOS\Unos\UNOS\ClienteWPF\obj\Debug\ClienteWPF_MarkupCompile.lref
+C:\Proyectos\UNOS\Unos\UNOS\ClienteWPF\obj\Debug\MainWindow.baml
+C:\Proyectos\UNOS\Unos\UNOS\ClienteWPF\obj\Debug\ClienteWPF.g.resources
+C:\Proyectos\UNOS\Unos\UNOS\ClienteWPF\obj\Debug\ClienteWPF.Properties.Resources.resources
+C:\Proyectos\UNOS\Unos\UNOS\ClienteWPF\obj\Debug\ClienteWPF.csproj.GenerateResource.cache
+C:\Proyectos\UNOS\Unos\UNOS\ClienteWPF\obj\Debug\ClienteWPF.pdb
+C:\Proyectos\UNOS\Unos\UNOS\ClienteWPF\bin\Debug\ClienteWPF.exe.config
+C:\Proyectos\UNOS\Unos\UNOS\ClienteWPF\bin\Debug\ClienteWPF.exe
+C:\Proyectos\UNOS\Unos\UNOS\ClienteWPF\bin\Debug\ClienteWPF.pdb
+C:\Proyectos\UNOS\Unos\UNOS\ClienteWPF\obj\Debug\ClienteWPF.exe
