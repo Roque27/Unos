@@ -4,4 +4,15 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Modelo\Modelo.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Contextos\" />
+    <Folder Include="Mapeos\" />
+    <Folder Include="DBEmbedded\" />
+    <Folder Include="Conecciones\" />
+  </ItemGroup>
+
 </Project>
