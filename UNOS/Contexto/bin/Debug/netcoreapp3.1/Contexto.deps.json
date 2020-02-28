@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "Contexto/1.0.0": {
+        "dependencies": {
+          "Modelo": "1.0.0"
+        },
         "runtime": {
           "Contexto.dll": {}
+        }
+      },
+      "Modelo/1.0.0": {
+        "runtime": {
+          "Modelo.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Contexto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Modelo/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,0 +1,7 @@
+C:\Proyectos\UNOS\Unos\UNOS\Modelo\bin\Debug\netstandard2.1\Modelo.deps.json
+C:\Proyectos\UNOS\Unos\UNOS\Modelo\bin\Debug\netstandard2.1\Modelo.dll
+C:\Proyectos\UNOS\Unos\UNOS\Modelo\bin\Debug\netstandard2.1\Modelo.pdb
+C:\Proyectos\UNOS\Unos\UNOS\Modelo\obj\Debug\netstandard2.1\Modelo.AssemblyInfoInputs.cache
+C:\Proyectos\UNOS\Unos\UNOS\Modelo\obj\Debug\netstandard2.1\Modelo.AssemblyInfo.cs
+C:\Proyectos\UNOS\Unos\UNOS\Modelo\obj\Debug\netstandard2.1\Modelo.dll
+C:\Proyectos\UNOS\Unos\UNOS\Modelo\obj\Debug\netstandard2.1\Modelo.pdb

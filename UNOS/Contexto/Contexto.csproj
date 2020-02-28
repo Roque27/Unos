@@ -1,18 +1,18 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Modelo\Modelo.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Folder Include="Contextos\" />
     <Folder Include="Mapeos\" />
     <Folder Include="DBEmbedded\" />
     <Folder Include="Conecciones\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Modelo\Modelo.csproj" />
   </ItemGroup>
 
 </Project>

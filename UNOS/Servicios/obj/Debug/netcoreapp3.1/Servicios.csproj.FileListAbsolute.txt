@@ -16,3 +16,12 @@ C:\Proyectos\UNOS\Unos\UNOS\Servicios\obj\Debug\netcoreapp3.1\Servicios.Assembly
 C:\Proyectos\UNOS\Unos\UNOS\Servicios\obj\Debug\netcoreapp3.1\Servicios.RazorTargetAssemblyInfo.cache
 C:\Proyectos\UNOS\Unos\UNOS\Servicios\obj\Debug\netcoreapp3.1\Servicios.dll
 C:\Proyectos\UNOS\Unos\UNOS\Servicios\obj\Debug\netcoreapp3.1\Servicios.pdb
+C:\Proyectos\UNOS\Unos\UNOS\Servicios\bin\Debug\netcoreapp3.1\Contexto.dll
+C:\Proyectos\UNOS\Unos\UNOS\Servicios\bin\Debug\netcoreapp3.1\DTOs.dll
+C:\Proyectos\UNOS\Unos\UNOS\Servicios\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Proyectos\UNOS\Unos\UNOS\Servicios\bin\Debug\netcoreapp3.1\Modelo.dll
+C:\Proyectos\UNOS\Unos\UNOS\Servicios\bin\Debug\netcoreapp3.1\Contexto.pdb
+C:\Proyectos\UNOS\Unos\UNOS\Servicios\bin\Debug\netcoreapp3.1\DTOs.pdb
+C:\Proyectos\UNOS\Unos\UNOS\Servicios\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Proyectos\UNOS\Unos\UNOS\Servicios\bin\Debug\netcoreapp3.1\Modelo.pdb
+C:\Proyectos\UNOS\Unos\UNOS\Servicios\obj\Debug\netcoreapp3.1\Servicios.csproj.CopyComplete

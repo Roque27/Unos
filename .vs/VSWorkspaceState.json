@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\UNOS",
+    "\\UNOS\\ClienteWPF"
   ],
+  "SelectedNode": "\\UNOS\\ClienteWPF\\MainWindow.xaml",
   "PreviewInSolutionExplorer": false
 }

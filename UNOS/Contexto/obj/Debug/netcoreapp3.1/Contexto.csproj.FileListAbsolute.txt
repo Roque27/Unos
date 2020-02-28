@@ -6,3 +6,6 @@ C:\Proyectos\UNOS\Unos\UNOS\Contexto\obj\Debug\netcoreapp3.1\Contexto.AssemblyIn
 C:\Proyectos\UNOS\Unos\UNOS\Contexto\obj\Debug\netcoreapp3.1\Contexto.AssemblyInfo.cs
 C:\Proyectos\UNOS\Unos\UNOS\Contexto\obj\Debug\netcoreapp3.1\Contexto.dll
 C:\Proyectos\UNOS\Unos\UNOS\Contexto\obj\Debug\netcoreapp3.1\Contexto.pdb
+C:\Proyectos\UNOS\Unos\UNOS\Contexto\bin\Debug\netcoreapp3.1\Modelo.dll
+C:\Proyectos\UNOS\Unos\UNOS\Contexto\bin\Debug\netcoreapp3.1\Modelo.pdb
+C:\Proyectos\UNOS\Unos\UNOS\Contexto\obj\Debug\netcoreapp3.1\Contexto.csproj.CopyComplete
